@@ -1,0 +1,9 @@
+{
+    "name": "nguyenhoaky/gd2-php2",
+    "autoload": {
+        "psr-4": {
+            "Nguyenhoaky\\Gd2Php2\\": "src/"
+        }
+    },
+    "require": {}
+}
